@@ -1,6 +1,7 @@
 # whats_app_application_ui
 
 A new Flutter project.
+<img src="assets/WhatsApp Image 2021-03-08 at 12.52.14.jpeg">
 
 ## Getting Started
 
